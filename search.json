@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "learning/index.html",
+    "href": "learning/index.html",
+    "title": "📚 Quarto 学习笔记",
+    "section": "",
+    "text": "欢迎来到我的 Quarto 学习专区！这里记录了我学习 Quarto 的历程与笔记。"
+  },
+  {
+    "objectID": "learning/index.html#笔记目录",
+    "href": "learning/index.html#笔记目录",
+    "title": "📚 Quarto 学习笔记",
+    "section": "📖 笔记目录",
+    "text": "📖 笔记目录\n\n01 · Quarto 基础语法\n内容概要：文档结构 · YAML 配置 · Markdown 语法 · 代码块使用\nQuarto 文档的基本组成、常用 Markdown 语法、如何在文档中嵌入代码并展示结果。\n📖 查看笔记\n\n\n02 · Quarto 网站搭建\n内容概要：项目创建 · 配置文件 · 导航栏 · 主题定制 · 部署发布\n从零开始搭建一个 Quarto 网站，包括目录结构设计、全局配置、导航设置和主题美化。\n📖 查看笔记"
+  },
+  {
+    "objectID": "learning/index.html#学习资源",
+    "href": "learning/index.html#学习资源",
+    "title": "📚 Quarto 学习笔记",
+    "section": "🔗 学习资源",
+    "text": "🔗 学习资源\n\n📘 Quarto 官方文档\n🎓 Quarto 入门教程\n💻 Quarto GitHub 仓库\n🌐 R for Data Science（含 Quarto 章节）\n\n\n笔记持续更新中…… ✍️"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "📬 联系我",
+    "section": "",
+    "text": "欢迎通过以下方式联系我，我很乐意与大家交流学习！\n\n\n\n\n\n项目\n内容\n\n\n\n\n姓名\n秦思怡\n\n\n学校\n华中农业大学\n\n\n学院\n资源与环境学院\n\n\n专业\n环境规划与管理\n\n\n学号\n2025303110047\n\n\n导师\n于书霞 教授\n\n\n\n\n\n\n华中农业大学\n湖北省武汉市洪山区狮子山街1号\n邮政编码：430070\n\n\n\n\n🌐 华中农业大学官网\n🌿 资源与环境学院\n📊 Quarto 官方文档\n\n\n\n\n💡 提示：本网站使用 Quarto 构建，正在持续更新完善中。"
+  },
+  {
+    "objectID": "contact.html#联系方式",
+    "href": "contact.html#联系方式",
+    "title": "📬 联系我",
+    "section": "",
+    "text": "欢迎通过以下方式联系我，我很乐意与大家交流学习！\n\n\n\n\n\n项目\n内容\n\n\n\n\n姓名\n秦思怡\n\n\n学校\n华中农业大学\n\n\n学院\n资源与环境学院\n\n\n专业\n环境规划与管理\n\n\n学号\n2025303110047\n\n\n导师\n于书霞 教授\n\n\n\n\n\n\n华中农业大学\n湖北省武汉市洪山区狮子山街1号\n邮政编码：430070\n\n\n\n\n🌐 华中农业大学官网\n🌿 资源与环境学院\n📊 Quarto 官方文档\n\n\n\n\n💡 提示：本网站使用 Quarto 构建，正在持续更新完善中。"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "关于我",
+    "section": "",
+    "text": "项目\n内容\n\n\n\n\n姓名\n秦思怡\n\n\n学号\n2025303110047\n\n\n学校\n华中农业大学\n\n\n学院\n资源与环境学院\n\n\n专业\n环境规划与管理\n\n\n导师\n于书霞 教授\n\n\n年级\n2025级研究生"
+  },
+  {
+    "objectID": "about.html#基本信息",
+    "href": "about.html#基本信息",
+    "title": "关于我",
+    "section": "",
+    "text": "项目\n内容\n\n\n\n\n姓名\n秦思怡\n\n\n学号\n2025303110047\n\n\n学校\n华中农业大学\n\n\n学院\n资源与环境学院\n\n\n专业\n环境规划与管理\n\n\n导师\n于书霞 教授\n\n\n年级\n2025级研究生"
+  },
+  {
+    "objectID": "about.html#教育背景",
+    "href": "about.html#教育背景",
+    "title": "关于我",
+    "section": "🎓 教育背景",
+    "text": "🎓 教育背景\n\n\n华中农业大学 · 资源与环境学院\n2025年 — 至今 | 环境规划与管理 · 硕士研究生\n\n师从于书霞教授，开展环境规划与管理相关研究\n积极学习数据分析与科学计算工具（R、Python、Quarto）\n参与课题组相关科研项目"
+  },
+  {
+    "objectID": "about.html#研究方向",
+    "href": "about.html#研究方向",
+    "title": "关于我",
+    "section": "🔬 研究方向",
+    "text": "🔬 研究方向\n我主要关注以下研究领域：\n\n\n🌍 环境规划与评价\n研究区域环境承载力，探索科学的环境规划方法，为区域可持续发展提供决策支持。\n\n\n🌱 生态系统管理\n关注生态系统服务功能评估，研究人类活动对生态系统的影响与管理对策。\n\n\n♻️ 资源可持续利用\n探索自然资源的合理开发与高效利用方式，促进资源-环境-经济的协调发展。\n\n\n📋 环境政策分析\n分析环境保护相关政策的效果评估，为政策优化提供科学依据。"
+  },
+  {
+    "objectID": "about.html#关于华中农业大学",
+    "href": "about.html#关于华中农业大学",
+    "title": "关于我",
+    "section": "🏫 关于华中农业大学",
+    "text": "🏫 关于华中农业大学\n华中农业大学（Huazhong Agricultural University）位于湖北省武汉市，是一所以农科为优势、多学科协调发展的全国重点大学，直属教育部管辖，是国家”双一流”建设高校。\n资源与环境学院致力于资源科学、环境科学与工程、土地资源管理等领域的教学与科研工作，培养具有创新能力的高素质专业人才。"
+  },
+  {
+    "objectID": "about.html#技能与工具",
+    "href": "about.html#技能与工具",
+    "title": "关于我",
+    "section": "💼 技能与工具",
+    "text": "💼 技能与工具\n\n\n数据分析\n\nR语言：数据处理、统计分析、数据可视化（ggplot2）\nPython：科学计算、数据分析（pandas, numpy）\n\n\n\n文档与写作\n\nQuarto：科学文档撰写、个人网站搭建 ← 正在学习中！\nR Markdown：可重复性研究报告\nLaTeX：学术论文排版\n\n\n\n地理信息\n\nArcGIS / QGIS：空间数据分析与地图制作\n遥感基础：卫星影像处理与解译"
+  },
+  {
+    "objectID": "about.html#联系方式",
+    "href": "about.html#联系方式",
+    "title": "关于我",
+    "section": "📮 联系方式",
+    "text": "📮 联系方式\n如需联系，请访问联系我页面。"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "欢迎来到我的个人网站",
+    "section": "",
+    "text": "华中农业大学 · 资源与环境学院 · 环境规划与管理\n\n探索环境科学的边界，用数据与规划守护美好生态\n\n\n了解我的更多信息 查看学习笔记"
+  },
+  {
+    "objectID": "index.html#个人简介",
+    "href": "index.html#个人简介",
+    "title": "欢迎来到我的个人网站",
+    "section": "🌟 个人简介",
+    "text": "🌟 个人简介\n\n\n🎓 学业背景\n\n学校：华中农业大学\n学院：资源与环境学院\n专业：环境规划与管理\n导师：于书霞 教授\n学号：2025303110047\n\n\n\n🔬 研究方向\n\n环境规划与评价\n生态系统管理\n资源可持续利用\n环境政策分析\n\n\n\n💡 技能工具\n\n数据分析：R / Python\n文档写作：Quarto / R Markdown\n地理信息：GIS 基础\n统计分析：统计学方法"
+  },
+  {
+    "objectID": "index.html#近期学习",
+    "href": "index.html#近期学习",
+    "title": "欢迎来到我的个人网站",
+    "section": "📚 近期学习",
+    "text": "📚 近期学习\n\n\n📖 Quarto 基础语法\n学习 Quarto 文档的基本结构、YAML front matter 配置、Markdown 语法以及代码块的使用方法。\n查看笔记 →\n\n\n🌐 Quarto 网站搭建\n学习如何使用 Quarto 搭建个人网站，包括配置文件编写、页面管理、主题定制和部署方法。\n查看笔记 →\n\n\n\n\n“环境是我们共同的家园，保护它是我们共同的责任。”"
+  }
+]
