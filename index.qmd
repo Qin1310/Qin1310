@@ -1,0 +1,85 @@
+---
+title: "欢迎来到我的个人网站"
+page-layout: full
+toc: false
+---
+
+::: {.hero-banner}
+::: {.hero-content}
+
+# 你好，我是**秦思怡** 👋 {.hero-title}
+
+**华中农业大学 · 资源与环境学院 · 环境规划与管理**
+
+::: {.hero-subtitle}
+探索环境科学的边界，用数据与规划守护美好生态
+:::
+
+::: {.hero-buttons}
+[了解我的更多信息](about.qmd){.btn .btn-primary .btn-lg}
+[查看学习笔记](learning/index.qmd){.btn .btn-outline-primary .btn-lg}
+:::
+
+:::
+:::
+
+---
+
+## 🌟 个人简介 {.section-title}
+
+::: {.info-cards}
+
+::: {.info-card}
+### 🎓 学业背景
+- **学校**：华中农业大学
+- **学院**：资源与环境学院
+- **专业**：环境规划与管理
+- **导师**：于书霞 教授
+- **学号**：2025303110047
+:::
+
+::: {.info-card}
+### 🔬 研究方向
+- 环境规划与评价
+- 生态系统管理
+- 资源可持续利用
+- 环境政策分析
+:::
+
+::: {.info-card}
+### 💡 技能工具
+- **数据分析**：R / Python
+- **文档写作**：Quarto / R Markdown
+- **地理信息**：GIS 基础
+- **统计分析**：统计学方法
+:::
+
+:::
+
+---
+
+## 📚 近期学习 {.section-title}
+
+::: {.learning-cards}
+
+::: {.learning-card}
+### 📖 Quarto 基础语法
+学习 Quarto 文档的基本结构、YAML front matter 配置、Markdown 语法以及代码块的使用方法。
+
+[查看笔记 →](learning/quarto-basics.qmd)
+:::
+
+::: {.learning-card}
+### 🌐 Quarto 网站搭建
+学习如何使用 Quarto 搭建个人网站，包括配置文件编写、页面管理、主题定制和部署方法。
+
+[查看笔记 →](learning/quarto-website.qmd)
+:::
+
+:::
+
+---
+
+::: {.quote-block}
+*"环境是我们共同的家园，保护它是我们共同的责任。"*
+:::

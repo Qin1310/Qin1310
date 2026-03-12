@@ -1,0 +1,45 @@
+---
+title: "📚 Quarto 学习笔记"
+toc: false
+---
+
+欢迎来到我的 Quarto 学习专区！这里记录了我学习 Quarto 的历程与笔记。
+
+> **Quarto** 是新一代的开源科学与技术出版系统，支持 R、Python、Julia 等多种语言，可生成 HTML 网页、PDF、Word 文档、演示幻灯片等多种格式。
+
+---
+
+## 📖 笔记目录
+
+::: {.note-card}
+### 01 · Quarto 基础语法
+
+**内容概要**：文档结构 · YAML 配置 · Markdown 语法 · 代码块使用
+
+Quarto 文档的基本组成、常用 Markdown 语法、如何在文档中嵌入代码并展示结果。
+
+[📖 查看笔记](quarto-basics.qmd)
+:::
+
+::: {.note-card}
+### 02 · Quarto 网站搭建
+
+**内容概要**：项目创建 · 配置文件 · 导航栏 · 主题定制 · 部署发布
+
+从零开始搭建一个 Quarto 网站，包括目录结构设计、全局配置、导航设置和主题美化。
+
+[📖 查看笔记](quarto-website.qmd)
+:::
+
+---
+
+## 🔗 学习资源
+
+- 📘 [Quarto 官方文档](https://quarto.org/docs/guide/)
+- 🎓 [Quarto 入门教程](https://quarto.org/docs/get-started/)
+- 💻 [Quarto GitHub 仓库](https://github.com/quarto-dev/quarto-cli)
+- 🌐 [R for Data Science（含 Quarto 章节）](https://r4ds.hadley.nz/)
+
+---
+
+*笔记持续更新中……* ✍️
